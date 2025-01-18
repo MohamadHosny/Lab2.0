@@ -11,6 +11,16 @@ Lightweight Tag:
 
 Does not create a separate Git object.
 
+when use rebase 
+Updating a Feature Branch
+Cleaning Up Commit History
+Avoiding Merge Commits
+Working on a Shared Branch (with Caution):
+
+
+
+
+
 
 
 
