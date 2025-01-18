@@ -18,7 +18,8 @@ Avoiding Merge Commits
 Working on a Shared Branch (with Caution):
 
 
-
+To list all tags
+git tag 
 
 
 
